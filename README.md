@@ -23,25 +23,16 @@
 <br>
 
 
-<img src="https://media4.giphy.com/media/dMLmQfCO7lCA2gX3tw/giphy.gif?cid=ecf05e47ak6mwfu812269zzr8ydv529109qzpb8rszwnja9e&rid=giphy.gif&ct=s" width=10%> 
-
-<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="3%"> My Skills
-
-<img src = "https://github.com/Asmblxer/Asmblxer/blob/main/Images/Programming_Languages.gif?raw=true" width=5%> Programming languages
-
-
-
-<img src = "https://github.com/Asmblxer/Asmblxer/blob/main/Images/Front_End.gif?raw=true" width=5%>  Frontend Development
-
-<img src = "https://github.com/Asmblxer/Asmblxer/blob/main/Images/Software_Tools.gif?raw=true" width=5%>  Software & Tools
- 
-
-
-<img src = "https://github.com/Asmblxer/Asmblxer/blob/main/Images/IDEs.gif?raw=true" width=5%> IDEs
- 
-<img src = "https://github.com/Asmblxer/Asmblxer/blob/main/Images/CP_PS.gif?raw=true" width=5%> Competitive Programming & Problem Solving
- 
-<img src = "https://github.com/Asmblxer/Asmblxer/blob/main/Images/OS.gif?raw=true" width=5%>  Operating Systems
+<div>
+	<img src="https://media4.giphy.com/media/dMLmQfCO7lCA2gX3tw/giphy.gif?cid=ecf05e47ak6mwfu812269zzr8ydv529109qzpb8rszwnja9e&rid=giphy.gif&ct=s" width=10%>
+	<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="3%">
+	<img src="https://github.com/Asmblxer/Asmblxer/blob/main/Images/Programming_Languages.gif?raw=true" width=5%>
+	<img src="https://github.com/Asmblxer/Asmblxer/blob/main/Images/Front_End.gif?raw=true" width=5%>
+	<img src="https://github.com/Asmblxer/Asmblxer/blob/main/Images/Software_Tools.gif?raw=true" width=5%>
+	<img src="https://github.com/Asmblxer/Asmblxer/blob/main/Images/IDEs.gif?raw=true" width=5%>
+	<img src="https://github.com/Asmblxer/Asmblxer/blob/main/Images/CP_PS.gif?raw=true" width=5%>
+	<img src="https://github.com/Asmblxer/Asmblxer/blob/main/Images/OS.gif?raw=true" width=5%>
+</div>
  
 
 
