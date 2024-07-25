@@ -1,11 +1,11 @@
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=D2A306&center=true&vCenter=true&random=false&width=600&lines=Software+Development+Engineer+%40noon;R%26D+Engineer+%40Coademy;3x+ACPC+Finalist;Always+learning+new+things;Using+Software+as+a+solution+for+every+Problem" alt="Typing SVG" /></a>
+	<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=+I'm+Software+Engineer;Samsung+Innovation+Campus+Intern;DEPI+.NET+Web+Development+Intern;ITI+.NET+Web+Development+Intern;Love+Competitive+Programming+;love+using+Software+as+a+solution+for+every+Problem;Always+learning+new+things" alt="Typing SVG" /></a>
 </p>
 
 
 <br>
 
-<!--
+
 
 <p align="center"> 
 	<a href = "https://committers.top/egypt#ORGNAME" target="_blank">
@@ -13,7 +13,7 @@
 	</a>
 	<img src="https://komarev.com/ghpvc/?username=Asmblxer&label=Profile%20views&color=555555&labelColor=000000&style=for-the-badge" alt="Asmblxer" width=19.40%/>
 </p>
- -->
+
 
 	
 ## <img src = "https://i.pinimg.com/originals/3f/7e/4e/3f7e4eff7c96e9fe4b8b4b1ff3f7bdb5.gif" width = 6.5%> About me
@@ -24,11 +24,11 @@
 - 👨‍💻 I'm Software Development Engineer 
 - :school: I `graduated` from the [Faculty of Computers & Artificial Intlligence](https://cai.du.edu.eg/) at [Damietta University](https://www.du.edu.eg/).
 - :trophy: AI `Samsung Inovation Campus` Intern.
-- :computer: I am a competitive programmer at `Codeforces`, `Leetcode`, `Meta Hacker Cup`, `Google Contests`.
+- :computer: I am a competitive programmer at `Codeforces`, `Leetcode`, `Meta Hacker Cup`, `Google Contests`, 'ECPC'.
 - ✍🏻 I love using Software as a solution for every Problem
 - 🤓 Always learning new things
-- :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME](https://docs.google.com/document/d/1PFFev8X5FWzHtPqI6cOJRKy5ZKBKy0CluyJ0xw_TzRA/edit?usp=sharing).
-- :boom: You can visit [MY LinkedIn](https://www.linkedin.com/in/asemgado/).
+- :thinking: I’m currently open for a new `job opportunity`, this is [My RESUME](https://docs.google.com/document/d/1PFFev8X5FWzHtPqI6cOJRKy5ZKBKy0CluyJ0xw_TzRA/edit?usp=sharing).
+- :boom: You can visit [My LinkedIn](https://www.linkedin.com/in/asemgado/).
 <br>
 
 
