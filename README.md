@@ -6,15 +6,6 @@
 <br>
 
 
-
-<p align="center"> 
-	<a href = "https://committers.top/egypt#ORGNAME" target="_blank">
-		<img src="https://enfsgag3ayy6w9q.m.pipedream.net" alt="Asmblxer" target="_blank", width=46%/> 
-	</a>
-	<img src="https://komarev.com/ghpvc/?username=Asmblxer&label=Profile%20views&color=555555&labelColor=000000&style=for-the-badge" alt="Asmblxer" width=19.40%/>
-</p>
-
-
 	
 ## <img src = "https://i.pinimg.com/originals/3f/7e/4e/3f7e4eff7c96e9fe4b8b4b1ff3f7bdb5.gif" width = 6.5%> About me
 
