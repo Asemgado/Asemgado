@@ -12,7 +12,7 @@
 <img align="right" src="https://github.com/Asmblxer/Asmblxer/blob/main/Images/Right_Side.gif?raw=true" width=30%>
 
 <br><br>
-<img src="https://media4.giphy.com/media/dMLmQfCO7lCA2gX3tw/giphy.gif?cid=ecf05e47ak6mwfu812269zzr8ydv529109qzpb8rszwnja9e&rid=giphy.gif&ct=s" width="50" style="float: left; margin-right: 10px;">
+<img src="https://media4.giphy.com/media/dMLmQfCO7lCA2gX3tw/giphy.gif?cid=ecf05e47ak6mwfu812269zzr8ydv529109qzpb8rszwnja9e&rid=giphy.gif&ct=s" width="100" style="float: left; margin-right: 10px;">
 
 - 👨‍💻 Software Development Engineer <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="20">
 - 🎓 Graduated from the [Faculty of Computers & Artificial Intelligence](https://cai.du.edu.eg/) at [Damietta University](https://www.du.edu.eg/) <img src="https://github.com/Asmblxer/Asmblxer/blob/main/Images/Programming_Languages.gif?raw=true" width="20">
