@@ -194,4 +194,4 @@
 	
 ## 🐍 A Snake Eating My Contributions Graph
 
-![snake animation](https://github.com/<seu Asmblxer>/<seu Asmblxer>/blob/output/github-contribution-grid-snake2.svg)
+![snake animation](https://github.com/Asmblxer>/Asmblxer/blob/output/github-contribution-grid-snake2.svg)
