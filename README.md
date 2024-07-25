@@ -123,9 +123,6 @@
     <a href="#"><img alt = "Leetcode" src="https://img.shields.io/badge/leetcode%20-%23FFA116.svg?style=plastic&logo=leetcode&logoColor=black" /></a>
   &emsp;
     <a href="#"><img alt = "Huckerrank" src="https://img.shields.io/badge/hackerrank-%232EC866.svg?style=plastic&logo=hackerrank&logoColor=white" /></a>
-
-  &emsp;
-    <a href="#"><img alt = "Google" src="https://img.shields.io/badge/google-%234285F4.svg?style=plastic&logo=google&logoColor=white" /></a>
 </p>
 
  ### <img src = "https://github.com/Asmblxer/Asmblxer/blob/main/Images/OS.gif?raw=true" width=5%>  Operating Systems
@@ -189,88 +186,11 @@
 	
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Asmblxer&layout=compact&theme=tokyonight&column=4&margin-w=15&margin-h=15" alt="Asmblxer" /></a> </p>
 
-[![@Asmblxer's Holopin board](https://holopin.io/api/user/board?user=Asmblxer)](https://holopin.io/@Asmblxer)
-	
 </details>
 	
-<details><summary><h3> :open_file_folder: My Repositories </h3></summary>
-
-----
-	
-<div>
-  <p align="center">
-	<a href="https://github.com/Asmblxer/LeetCode_DailyChallenge_2023">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=Asmblxer&repo=LeetCode_DailyChallenge_2023&theme=tokyonight" alt="GitHub Stats" />
-    	</a>
-	<a href="https://github.com/Asmblxer/Ahmed-Hossam">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=Asmblxer&repo=Ahmed-Hossam&theme=tokyonight" alt="GitHub Stats" />
-    	</a>
-    	<a href="https://github.com/Asmblxer/Strees_Testing">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=Asmblxer&repo=Strees_Testing&theme=tokyonight" alt="GitHub Stats" />
-    	</a>
-    	<a href="https://github.com/Asmblxer/CP-Templates">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=Asmblxer&repo=CP-Templates&theme=tokyonight" alt="GitHub Stats" />
-    	</a>
-    	<a href="https://github.com/Asmblxer/Codeforces-Polygon-Template">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=Asmblxer&repo=Codeforces-Polygon-Template&theme=tokyonight" alt="GitHub Stats" />
-    	</a>
-	<a href="https://github.com/Asmblxer/Some-Linux-Commands">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=Asmblxer&repo=Some-Linux-Commands&theme=tokyonight" alt="GitHub Stats" />
-    	</a>
-	<a href="https://github.com/Asmblxer/Shorten-Link">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=Asmblxer&repo=Shorten-Link&theme=tokyonight" alt="GitHub Stats" />
-    	</a>
-	<a href="https://github.com/Asmblxer/Asmblxer">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=Asmblxer&repo=Asmblxer&theme=tokyonight" alt="GitHub Stats" />
-    	</a>
-	<a href="https://github.com/Asmblxer/Competitive-Programming-Session-Content">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=Asmblxer&repo=Competitive-Programming-Session-Content&theme=tokyonight" alt="GitHub Stats" />
-    	</a>
-	<a href="https://github.com/Asmblxer/VS-Code-for-CP">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=Asmblxer&repo=VS-Code-for-CP&theme=tokyonight" alt="GitHub Stats" />
-    	</a>
-	<a href="https://github.com/Asmblxer/Sorting-Algorithms">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=Asmblxer&repo=Sorting-Algorithms&theme=tokyonight" alt="GitHub Stats" />
-    	</a>
-	<a href="https://github.com/Asmblxer/board-link-generator">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=Asmblxer&repo=board-link-generator&theme=tokyonight" alt="GitHub Stats" />
-    	</a>
-	<a href="https://github.com/Asmblxer/Tic-Tac-Toe-GUI">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=Asmblxer&repo=Tic-Tac-Toe-GUI&theme=tokyonight" alt="GitHub Stats" />
-    	</a>
-	<a href="https://github.com/Asmblxer/PhoneBook-System">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=Asmblxer&repo=PhoneBook-System&theme=tokyonight" alt="GitHub Stats" />
-    	</a>
-	<a href="https://github.com/Asmblxer/Codeforces-Sheet-Generator">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=Asmblxer&repo=Codeforces-Sheet-Generator&theme=tokyonight" alt="GitHub Stats" />
-    	</a>
-	<a href="https://github.com/Asmblxer/CP-Calendar">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=Asmblxer&repo=CP-Calendar&theme=tokyonight" alt="GitHub Stats" />
-    	</a>
-	<a href="https://github.com/Asmblxer/Codeforces-Friends-Script">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=Asmblxer&repo=Codeforces-Friends-Script&theme=tokyonight" alt="GitHub Stats" />
-    	</a>
-	<a href="https://github.com/Asmblxer/vJudge-Board-Scrapper">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=Asmblxer&repo=vJudge-Board-Scrapper&theme=tokyonight" alt="GitHub Stats" />
-    	</a>
-	<a href="https://github.com/Asmblxer/CP-Templates-Snippets">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=Asmblxer&repo=CP-Templates-Snippets&theme=tokyonight" alt="GitHub Stats" />
-    	</a>
-	<a href="https://github.com/Asmblxer/Udemy-Website">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=Asmblxer&repo=Udemy-Website&theme=tokyonight" alt="GitHub Stats" />
-    	</a>
-  </p>
-</div>
-</details>
+<details><summary><h3>📊 GitHub Contribution Graph</h3></summary>	
 
 </br></br>
 	
 ## 🐍 A Snake Eating My Contributions Graph
 
-<p align="center">
-	<picture>
-		  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Asmblxer/Asmblxer/output/github-contribution-grid-snake-dark.svg">
-		  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Asmblxer/Asmblxer/output/github-contribution-grid-snake.svg">
-		  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Asmblxer/Asmblxer/output/github-contribution-grid-snake.svg">
-	</picture>
-</p>
