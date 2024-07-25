@@ -23,43 +23,27 @@
 <br>
 
 
-## <img src="https://media4.giphy.com/media/dMLmQfCO7lCA2gX3tw/giphy.gif?cid=ecf05e47ak6mwfu812269zzr8ydv529109qzpb8rszwnja9e&rid=giphy.gif&ct=s" width=10%> 
+<img src="https://media4.giphy.com/media/dMLmQfCO7lCA2gX3tw/giphy.gif?cid=ecf05e47ak6mwfu812269zzr8ydv529109qzpb8rszwnja9e&rid=giphy.gif&ct=s" width=10%> 
+
+<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="3%"> My Skills
+
+<img src = "https://github.com/Asmblxer/Asmblxer/blob/main/Images/Programming_Languages.gif?raw=true" width=5%> Programming languages
 
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="3%"> My Skills
 
-### <img src = "https://github.com/Asmblxer/Asmblxer/blob/main/Images/Programming_Languages.gif?raw=true" width=5%> Programming languages
+<img src = "https://github.com/Asmblxer/Asmblxer/blob/main/Images/Front_End.gif?raw=true" width=5%>  Frontend Development
 
-
-
-### <img src = "https://github.com/Asmblxer/Asmblxer/blob/main/Images/Front_End.gif?raw=true" width=5%>  Frontend Development
-
- ### <img src = "https://github.com/Asmblxer/Asmblxer/blob/main/Images/Software_Tools.gif?raw=true" width=5%>  Software & Tools
+<img src = "https://github.com/Asmblxer/Asmblxer/blob/main/Images/Software_Tools.gif?raw=true" width=5%>  Software & Tools
  
 
 
- ### <img src = "https://github.com/Asmblxer/Asmblxer/blob/main/Images/IDEs.gif?raw=true" width=5%> IDEs
+<img src = "https://github.com/Asmblxer/Asmblxer/blob/main/Images/IDEs.gif?raw=true" width=5%> IDEs
+ 
+<img src = "https://github.com/Asmblxer/Asmblxer/blob/main/Images/CP_PS.gif?raw=true" width=5%> Competitive Programming & Problem Solving
+ 
+<img src = "https://github.com/Asmblxer/Asmblxer/blob/main/Images/OS.gif?raw=true" width=5%>  Operating Systems
  
 
-
- ### <img src = "https://github.com/Asmblxer/Asmblxer/blob/main/Images/CP_PS.gif?raw=true" width=5%> Competitive Programming & Problem Solving
- 
-
-
- ### <img src = "https://github.com/Asmblxer/Asmblxer/blob/main/Images/OS.gif?raw=true" width=5%>  Operating Systems
- 
-<p align="center">
-  &emsp;
-    <a href="#"><img src="https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=linux&logoColor=black"></a>
-  &emsp;
-    <a href="#"><img src="https://img.shields.io/badge/Ubuntu-E95420?style=plastic&logo=ubuntu&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img src="https://img.shields.io/badge/Windows-0078D6?style=plastic&logo=windows&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img src="https://img.shields.io/badge/pop!_os-%2348B9C7.svg?style=plastic&&logo=pop!_os&logoColor=white" /></a>
-  &emsp;
-    <a href="#"><img src="https://img.shields.io/badge/manjaro-%2335BF5C.svg?&style=plastic&logo=manjaro&logoColor=white" /></a>
-</p>
 
 <br> 
 
@@ -109,14 +93,5 @@
 
 </details>
 	
-</br></br>
-	
-## 🐍 A Snake Eating My Contributions Graph
 
-<p align="center">
-	<picture>
-		  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Asmblxer/Asmblxer/output/github-contribution-grid-snake-dark.svg">
-		  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Asmblxer/Asmblxer/output/github-contribution-grid-snake.svg">
-		  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Asmblxer/Asmblxer/output/github-contribution-grid-snake.svg">
-	</picture>
-</p>
+	
