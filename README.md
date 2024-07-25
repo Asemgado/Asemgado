@@ -1,3 +1,4 @@
+<!--
 <h1 align="center"><img src="https://iili.io/HG9Lsi7.gif" width="80%"> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></h1>
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=D2A306&center=true&vCenter=true&random=false&width=600&lines=Software+Development+Engineer+%40noon;R%26D+Engineer+%40Coademy;3x+ACPC+Finalist;Always+learning+new+things;Using+Software+as+a+solution+for+every+Problem" alt="Typing SVG" /></a>
@@ -6,7 +7,7 @@
 
 <br>
 
-<!--
+
 <p align="center"> 
 	<a href = "https://committers.top/egypt#ORGNAME" target="_blank">
 		<img src="https://enfsgag3ayy6w9q.m.pipedream.net" alt="Asmblxer" target="_blank", width=46%/> 
