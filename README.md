@@ -188,10 +188,8 @@
 
 </details>
 	
-<details><summary><h3>📊 GitHub Contribution Graph</h3></summary>	
-
 </br></br>
 	
 ## 🐍 A Snake Eating My Contributions Graph
 
-![snake animation](https://github.com/Asmblxer>/Asmblxer/blob/output/github-contribution-grid-snake2.svg)
+![snake animation](https://github.com/Asmblxer/Asmblxer/blob/output/github-contribution-grid-snake2.svg)
