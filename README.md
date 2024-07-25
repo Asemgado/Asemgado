@@ -1,5 +1,3 @@
-<!--
-<h1 align="center"><img src="https://iili.io/HG9Lsi7.gif" width="80%"> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></h1>
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=D2A306&center=true&vCenter=true&random=false&width=600&lines=Software+Development+Engineer+%40noon;R%26D+Engineer+%40Coademy;3x+ACPC+Finalist;Always+learning+new+things;Using+Software+as+a+solution+for+every+Problem" alt="Typing SVG" /></a>
 </p>
@@ -7,6 +5,7 @@
 
 <br>
 
+<!--
 
 <p align="center"> 
 	<a href = "https://committers.top/egypt#ORGNAME" target="_blank">
@@ -22,8 +21,8 @@
 <img align="right" src="https://github.com/Asmblxer/Asmblxer/blob/main/Images/Right_Side.gif?raw=true" width=30%>
 
 <br><br>
-- 👨‍💻 I'm Software Development Engineer (https://www.noon.com/egypt-en/)
-- :school: I `graduated` from the [Faculty of Computers & Artificial Intlligence]https://cai.du.edu.eg/) at [Damietta University](https://www.du.edu.eg/).
+- 👨‍💻 I'm Software Development Engineer 
+- :school: I `graduated` from the [Faculty of Computers & Artificial Intlligence](https://cai.du.edu.eg/) at [Damietta University](https://www.du.edu.eg/).
 - :trophy: AI `Samsung Inovation Campus` Intern.
 - :computer: I am a competitive programmer at `Codeforces`, `Leetcode`, `Meta Hacker Cup`, `Google Contests`.
 - ✍🏻 I love using Software as a solution for every Problem
