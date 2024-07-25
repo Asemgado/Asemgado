@@ -12,8 +12,8 @@
 <img align="right" src="https://github.com/Asmblxer/Asmblxer/blob/main/Images/Right_Side.gif?raw=true" width=30%>
 
 <br><br>
-<img src="https://media4.giphy.com/media/dMLmQfCO7lCA2gX3tw/giphy.gif?cid=ecf05e47ak6mwfu812269zzr8ydv529109qzpb8rszwnja9e&rid=giphy.gif&ct=s" width=10%>
-- 👨‍💻 I'm Software Development Engineer 
+<img src="https://media4.giphy.com/media/dMLmQfCO7lCA2gX3tw/giphy.gif?cid=ecf05e47ak6mwfu812269zzr8ydv529109qzpb8rszwnja9e&rid=giphy.gif&ct=s" width=10% style="float: left; margin-right: 10px;">
+👨‍💻 I'm Software Development Engineer
 - :school: I `graduated` from the [Faculty of Computers & Artificial Intlligence](https://cai.du.edu.eg/) at [Damietta University](https://www.du.edu.eg/).
 - :trophy: AI `Samsung Inovation Campus` Intern.
 - :computer: I am a competitive programmer at `Codeforces`, `Leetcode`, `Meta Hacker Cup`, `Google Contests`, `ECPC`.
