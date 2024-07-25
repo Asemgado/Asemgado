@@ -24,8 +24,8 @@
 - 🔍 Currently open for new job opportunities - [View My Resume](https://docs.google.com/document/d/1PFFev8X5FWzHtPqI6cOJRKy5ZKBKy0CluyJ0xw_TzRA/edit?usp=sharing) <img src="https://github.com/Asmblxer/Asmblxer/blob/main/Images/OS.gif?raw=true" width="20">
 - 🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/asemgado/)
 
+<img src="https://github.com/Asmblxer/Asmblxer/blob/main/Images/IDEs.gif?raw=true" width="200" style="float: left; margin-right: 10px; margin-bottom: 20px;">
 <img src="https://github.com/Asmblxer/Asmblxer/blob/main/Images/Software_Tools.gif?raw=true" width="200" style="float: left; margin-right: 10px; margin-bottom: 20px;">
----
 
 <p align = "center">
 	<a href="https://github.com/piyushsuthar/github-readme-quotes"> <img alt = "Quote" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&animation=grow_out_in&quoteCategory=programming">
