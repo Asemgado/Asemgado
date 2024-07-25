@@ -1,5 +1,5 @@
 <p align="center">
-	<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=+I'm+Software+Development+Engineer;Samsung+Innovation+Campus+Intern;DEPI+.NET+Web+Development+Intern;ITI+.NET+Web+Development+Intern;Love+Competitive+Programming+;love+using+Software+as+a+solution+for+every+Problem;Always+learning+new+things" alt="Typing SVG" /></a>
+	<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=+I'm+Software+Development+Engineer;+I'm+Software+Development+Engineer;Samsung+Innovation+Campus+Intern;DEPI+.NET+Web+Development+Intern;ITI+.NET+Web+Development+Intern;Love+Competitive+Programming+;love+using+Software+as+a+solution+for+every+Problem;Always+learning+new+things" alt="Typing SVG" /></a>
 </p>
 
 
@@ -12,12 +12,12 @@
 <img align="right" src="https://github.com/Asmblxer/Asmblxer/blob/main/Images/Right_Side.gif?raw=true" width=30%>
 
 <br><br>
-<img src="https://media4.giphy.com/media/dMLmQfCO7lCA2gX3tw/giphy.gif?cid=ecf05e47ak6mwfu812269zzr8ydv529109qzpb8rszwnja9e&rid=giphy.gif&ct=s" width="100" style="float: left; margin-right: 10px;">
+<img src="https://media4.giphy.com/media/dMLmQfCO7lCA2gX3tw/giphy.gif?cid=ecf05e47ak6mwfu812269zzr8ydv529109qzpb8rszwnja9e&rid=giphy.gif&ct=s" width="100" style="float: left; margin-right: 10px;"><img src="https://github.com/Asmblxer/Asmblxer/blob/main/Images/Software_Tools.gif?raw=true" width="20">
 
 - 👨‍💻 Software Development Engineer <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="20">
 - 🎓 Graduated from the [Faculty of Computers & Artificial Intelligence](https://cai.du.edu.eg/) at [Damietta University](https://www.du.edu.eg/) <img src="https://github.com/Asmblxer/Asmblxer/blob/main/Images/Programming_Languages.gif?raw=true" width="20">
 - 🏆 AI & ML Samsung Innovation Campus Intern <img src="https://github.com/Asmblxer/Asmblxer/blob/main/Images/Front_End.gif?raw=true" width="20">
-- 💻 Competitive programmer at Codeforces, LeetCode, ECPC, Meta Hacker Cup, and Google Contests <img src="https://github.com/Asmblxer/Asmblxer/blob/main/Images/Software_Tools.gif?raw=true" width="20">
+- 💻 Competitive programmer at `Codeforces`, `LeetCode`, `ECPC`, `Meta Hacker Cup`, and `Google Contests` <img src="https://github.com/Asmblxer/Asmblxer/blob/main/Images/Software_Tools.gif?raw=true" width="20">
 - ✍🏻 Passionate about using software as a solution for every problem <img src="https://github.com/Asmblxer/Asmblxer/blob/main/Images/IDEs.gif?raw=true" width="20">
 - 🤓 Always learning new things <img src="https://github.com/Asmblxer/Asmblxer/blob/main/Images/CP_PS.gif?raw=true" width="20">
 - 🔍 Currently open for new job opportunities - [View My Resume](https://docs.google.com/document/d/1PFFev8X5FWzHtPqI6cOJRKy5ZKBKy0CluyJ0xw_TzRA/edit?usp=sharing) <img src="https://github.com/Asmblxer/Asmblxer/blob/main/Images/OS.gif?raw=true" width="20">
