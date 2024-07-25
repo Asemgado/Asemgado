@@ -9,7 +9,7 @@
 	
 ## <img src = "https://i.pinimg.com/originals/3f/7e/4e/3f7e4eff7c96e9fe4b8b4b1ff3f7bdb5.gif" width = 6.5%> About me
 
-<img align="right" src="https://github.com/Asmblxer/Asmblxer/blob/main/Images/Right_Side.gif?raw=true" width=50%>
+<img align="right" src="https://github.com/Asmblxer/Asmblxer/blob/main/Images/Right_Side.gif?raw=true" width=40%>
 
 <br><br>
 <img src="https://media4.giphy.com/media/dMLmQfCO7lCA2gX3tw/giphy.gif?cid=ecf05e47ak6mwfu812269zzr8ydv529109qzpb8rszwnja9e&rid=giphy.gif&ct=s" width="150" style="float: left; margin-right: 10px;">
