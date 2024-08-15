@@ -1,5 +1,5 @@
 <p align="center">
-	<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=+HI+I'm+Asem+Ebrahim+Gado;+I'm+Software+Development+Engineer;Samsung+Innovation+Campus+Intern;DEPI+.NET+Web+Development+Intern;ITI+.NET+Web+Development+Intern;Love+Competitive+Programming+;use+Software+as+a+solution+for+Problems;Always+learning+new+things" alt="Typing SVG" /></a>
+	<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=+HI+I'm+Asem+Ebrahim+Gado;+I'm+A+Software+Development+Engineer;Samsung+Innovation+Campus+Intern;DEPI+.NET+Web+Development+Intern;ITI+.NET+Web+Development+Intern;Love+Competitive+Programming+;Use+Software+As+a+Solution+For+Problems;Always+learning+new+things" alt="Typing SVG" /></a>
 </p>
 
 
