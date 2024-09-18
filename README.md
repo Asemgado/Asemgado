@@ -20,8 +20,8 @@
 - 🔍 Currently open for new job opportunities - [View My Resume](https://docs.google.com/document/d/1PFFev8X5FWzHtPqI6cOJRKy5ZKBKy0CluyJ0xw_TzRA/edit?usp=sharing) 
 - 🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/asemgado/)
 <div>
-	<img src="https://github.com/Asmblxer/Asmblxer/blob/main/Images/IDEs.gif?raw=true" width="200" alt="IDEs" style="margin-right: 1000px;">
-	<img src="https://media4.giphy.com/media/dMLmQfCO7lCA2gX3tw/giphy.gif?cid=ecf05e47ak6mwfu812269zzr8ydv529109qzpb8rszwnja9e&rid=giphy.gif&ct=s" width="200" alt="Giphy" style="margin-left: 100px;">
+	<img src="https://media4.giphy.com/media/dMLmQfCO7lCA2gX3tw/giphy.gif?cid=ecf05e47ak6mwfu812269zzr8ydv529109qzpb8rszwnja9e&rid=giphy.gif&ct=s" width="200" alt="Giphy" align = "left">
+	<img src="https://github.com/Asmblxer/Asmblxer/blob/main/Images/IDEs.gif?raw=true" width="200" alt="IDEs" >
 </div>
 
 <div align="center">
