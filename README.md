@@ -11,6 +11,7 @@
 <img align="right" src="https://github.com/Asmblxer/Asmblxer/blob/main/Images/Right_Side.gif?raw=true" width="35%">
 
 <br>
+
 - 👨‍💻 Software Development Engineer <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="20">
 - 🎓 Graduated from the [Faculty of Computers & Artificial Intelligence](https://cai.du.edu.eg/) at [Damietta University](https://www.du.edu.eg/) <img src="https://github.com/Asmblxer/Asmblxer/blob/main/Images/Programming_Languages.gif?raw=true" width="20">
 - 🏆 AI & ML `Samsung Innovation Campus Intern` <img src="https://github.com/Asmblxer/Asmblxer/blob/main/Images/Front_End.gif?raw=true" width="20">
@@ -19,6 +20,7 @@
 - 🤓 Always learning new things 
 - 🔍 Currently open for new job opportunities - [View My Resume](https://docs.google.com/document/d/1PFFev8X5FWzHtPqI6cOJRKy5ZKBKy0CluyJ0xw_TzRA/edit?usp=sharing) 
 - 🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/asemgado/)
+
 <div>
 	<img src="https://media4.giphy.com/media/dMLmQfCO7lCA2gX3tw/giphy.gif?cid=ecf05e47ak6mwfu812269zzr8ydv529109qzpb8rszwnja9e&rid=giphy.gif&ct=s" width="200" alt="Giphy" align = "right">
 	<img src="https://github.com/Asmblxer/Asmblxer/blob/main/Images/IDEs.gif?raw=true" width="200" alt="IDEs" >
@@ -33,6 +35,9 @@
 		<img alt="Quote" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&animation=grow_out_in"eCategory=programming">
 	</a>
 </div>
+
+## <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzFhYzJkMmQ2MWQ3ZGY3MDhjZTE3MDI2Mzk3NzE1OWQyZTRlMmYwMCZjdD1z/iY8CRBdQXODJSCERIr/giphy.gif" width="5%" valign="bottom"> Github Stats
+
 <details>
 	<summary><h3> 🔥 Streak Stats</h3></summary>
 	<div align="center">
