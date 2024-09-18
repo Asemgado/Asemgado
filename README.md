@@ -20,16 +20,17 @@
 - 🔍 Currently open for new job opportunities - [View My Resume](https://docs.google.com/document/d/1PFFev8X5FWzHtPqI6cOJRKy5ZKBKy0CluyJ0xw_TzRA/edit?usp=sharing) 
 - 🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/asemgado/)
 
-<div style="display: flex; justify-content: space-between; align-items: right;">
+<div align="right">
     <img src="https://github.com/Asmblxer/Asmblxer/blob/main/Images/IDEs.gif?raw=true" width="200" alt="IDEs">
 </div>
-<div style="display: flex; justify-content: space-between; align-items: left;">
+<div align="left">
     <img src="https://media4.giphy.com/media/dMLmQfCO7lCA2gX3tw/giphy.gif?cid=ecf05e47ak6mwfu812269zzr8ydv529109qzpb8rszwnja9e&rid=giphy.gif&ct=s" width="200" alt="Giphy">
 </div>
 
-<div style="display: flex; justify-content: space-between; align-items: center;">
+<div align="center">
     <img src="https://github.com/Asmblxer/Asmblxer/blob/main/Images/Software_Tools.gif?raw=true" width="200" alt="Software Tools">
 </div>
+
 <div align="center">
 	<a href="https://github.com/piyushsuthar/github-readme-quotes">
 		<img alt="Quote" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&animation=grow_out_in"eCategory=programming">
