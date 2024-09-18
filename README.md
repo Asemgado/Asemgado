@@ -22,7 +22,7 @@
 
 <div style="display: flex; justify-content: space-between; align-items: center;">
     <img src="https://github.com/Asmblxer/Asmblxer/blob/main/Images/IDEs.gif?raw=true" width="200" alt="IDEs">
-    <img src="https://media4.giphy.com/media/dMLmQfCO7lCA2gX3tw/giphy.gif?cid=ecf05e47ak6mwfu812269zzr8ydv529109qzpb8rszwnja9e&rid=giphy.gif&ct=s" width="200" alt="Giphy">
+    <align = "left" img src="https://media4.giphy.com/media/dMLmQfCO7lCA2gX3tw/giphy.gif?cid=ecf05e47ak6mwfu812269zzr8ydv529109qzpb8rszwnja9e&rid=giphy.gif&ct=s" width="200" alt="Giphy">
 </div>
     <img src="https://github.com/Asmblxer/Asmblxer/blob/main/Images/Software_Tools.gif?raw=true" width="200" alt="Software Tools">
 </div>
@@ -31,7 +31,6 @@
 		<img alt="Quote" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&animation=grow_out_in"eCategory=programming">
 	</a>
 </div>
-
 ## <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzFhYzJkMmQ2MWQ3ZGY3MDhjZTE3MDI2Mzk3NzE1OWQyZTRlMmYwMCZjdD1z/iY8CRBdQXODJSCERIr/giphy.gif" width="5%" valign="bottom"> Github Stats
 
 <details>
