@@ -30,7 +30,7 @@
 - 🤖 Building **AI agents** with **LangGraph** and multiple LLM providers (OpenAI, Gemini)
 - 📨 Into **event-driven architecture** — RabbitMQ, async workflows, real-time integrations
 - 🏆 Top 10% globally in **IEEEXtreme** · competitive programmer on **Codeforces**, **LeetCode**, **ECPC**
-- 💼 Open to **Backend / .NET** opportunities — [View my Resume](https://docs.google.com/document/d/1PFFev8X5FWzHtPqI6cOJRKy5ZKBKy0CluyJ0xw_TzRA/edit?usp=sharing)
+- 💼 Open to **Backend / Full Stack / AI** opportunities — [View my Resume](https://docs.google.com/document/d/1PFFev8X5FWzHtPqI6cOJRKy5ZKBKy0CluyJ0xw_TzRA/edit?usp=sharing)
 
 <br clear="right"/>
 
